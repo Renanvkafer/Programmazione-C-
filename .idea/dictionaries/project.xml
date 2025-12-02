@@ -2,13 +2,23 @@
   <dictionary name="project">
     <words>
       <w>altura</w>
+      <w>arrya</w>
       <w>calcolo</w>
       <w>disegna</w>
+      <w>elemento</w>
+      <w>estrare</w>
+      <w>estrat</w>
+      <w>estrazione</w>
+      <w>inserire</w>
+      <w>insire</w>
+      <w>l'elemento</w>
       <w>litro</w>
       <w>mynums</w>
       <w>parcheggio</w>
       <w>peddagio</w>
+      <w>pilha</w>
       <w>rettangolo</w>
+      <w>vuoi</w>
     </words>
   </dictionary>
 </component>

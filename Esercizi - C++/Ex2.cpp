@@ -1,5 +1,5 @@
 #include <cstring>
-# include <iostream>
+#include <iostream>
 
 int lenChar(const char *mesagg) {
     int i = 0;
