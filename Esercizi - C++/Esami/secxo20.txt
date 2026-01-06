@@ -1,0 +1,4 @@
+Exam Report
+Question 1 2 3 4 5 
+Answer d b b a c 
+Wrong(%) 0.00 66.67 0.00 33.33 0.00 
